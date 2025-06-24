@@ -9,10 +9,10 @@ public class Assignment_Arithmetic_Operator {
         equal symbol is assignment operator
         */
        int b=5;
-        System.out.printf("Perform Addition : %d\n",a+b);
-        System.out.printf("Perform Substraction :%d\n",a-b);
-        System.out.printf("Perform Multiplication :%d\n",a*b);
-        System.out.printf("Perform Division :%d\n",a/b);
-        System.out.printf("Perform Modulus :%d\n",a%b);
+        System.out.printf("Addition : %d\n",a+b);
+        System.out.printf("Substraction :%d\n",a-b);
+        System.out.printf("Multiplication :%d\n",a*b);
+        System.out.printf("Division :%d\n",a/b);
+        System.out.printf("Modulus :%d\n",a%b);
     }
 }
